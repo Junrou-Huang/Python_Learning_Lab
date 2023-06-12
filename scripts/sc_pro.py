@@ -8,6 +8,8 @@ Created on Wed Jun  7 16:34:30 2023
 import numpy as np
 import os
 import sys
+import pandas as pd
+
 #%%
 class div_protein():
     def __init__(self,file_url:str):
